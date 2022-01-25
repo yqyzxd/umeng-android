@@ -39,7 +39,7 @@ dependencies {
     implementation 'com.tencent.mm.opensdk:wechat-sdk-android-without-mta:6.6.5'
 
     //api project(':toastlib')
-    implementation 'com.github.yqyzxd:toast-android:1.0.0'
+    api 'com.github.yqyzxd:toast-android:1.0.2'
     api 'com.alibaba:fastjson:1.1.71.android'
 
 
